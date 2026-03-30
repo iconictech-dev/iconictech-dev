@@ -215,9 +215,147 @@ JavaScript Developer, Node.js Developer, Full Stack Developer, Queen Ruva Bot,
 Codewave Unit Force, Website Developer, Backend Developer, Tech Entrepreneur,
 iconictech-dev, SilentByte Platforms Inc, Zimbabwe Tech
 -->
+
+
+fix
+
+Unable to render rich display
+
+Parse error on line 14:
+...'> <img src='https://quotes-github-rea
+----------------------^
+Expecting 'EOF', 'SPACE', 'NEWLINE', 'title', 'acc_title', 'acc_descr', 'acc_descr_multiline_value', 'section', 'period', 'event', got 'INVALID'
+
+For more information, see https://docs.github.com/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams#creating-mermaid-diagrams
+
+timeline
+    title SilentByte Evolution
+    2022 : Started Learning JavaScript & Node.js
+    2023 : Improved Programming Skills
+    2024 : Built Queen Tanya Bot
+    2025 : Created Codewave Unit Force
+         : Upgraded to Queen Ruva
+    2026 : Rebranded to SilentByte Platforms Inc
+         : "We do tech for a purpose"
+</div>
+<br>
+<!-- Animated Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" width="100%"/>
+</div>
+<br>
+<!-- Snake Animation -->
+<div align="center">
+  <h2>🐍 Contribution Snake</h2>
+  <img src="https://github.com/iconictech-dev/iconictech-dev/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+</div>
+<br>
+<!-- Footer Animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80;SilentByte+Platforms+%C2%A9+2026;We+Do+Tech+For+A+Purpose" alt="Footer Typing" />
+  </a>
+</div>
+<!-- Animated Footer Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=150&section=footer&text=SilentByte%20Platforms%20Inc&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=70&desc=Powered%20by%20Passion%20%7C%20Built%20with%20Purpose&descAlignY=90&descSize=12"/>
+</div>
+<!-- Hidden SEO Keywords -->
+<!--
+SilentByte Platforms, Iconic Tech, Zimbabwe Developer, WhatsApp Bot Developer, 
+JavaScript Developer, Node.js Developer, Full Stack Developer, Queen Ruva Bot,
+Codewave Unit Force, Website Developer, Backend Developer, Tech Entrepreneur,
+iconictech-dev, SilentByte Platforms Inc, Zimbabwe Tech
+-->
 <!-- Contribution Graph -->
 <h2 align="center">📈 Contribution Activity</h2>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SilentByteTech&bg_color=0d1117&color=667eea&line=764ba2&point=ff6b6b&area=true&hide_border=true&radius=8&custom_title=My%20Contribution%20Graph" width="100%"/>
+</div>
+
+<br>
+
+<!-- Trophies Section -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SilentByteTech&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
+</div>
+
+<br>
+
+<!-- Journey Timeline -->
+<h2 align="center">🚀 My Journey</h2>
+
+<div align="center">
+
+```mermaid
+timeline
+    title SilentByte Evolution
+    2022 : Started Learning JavaScript & Node.js
+    2023 : Improved Programming Skills
+    2024 : Built Queen Tanya Bot
+    2025 : Created Codewave Unit Force
+         : Upgraded to Queen Ruva
+    2026 : Rebranded to SilentByte Platforms Inc
+         : "We do tech for a purpose"
+</div>
+<br>
+<!-- Animated Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" width="100%"/>
+</div>
+<br>
+<!-- Footer Animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80;SilentByte+Platforms+%C2%A9+2026" alt="Footer Typing" />
+  </a>
+</div>
+<!-- Animated Footer Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=150&section=footer&text=We%20Do%20Tech%20For%20A%20Purpose&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=70"/>
+</div>
+<!-- Hidden SEO Keywords -->
+<!--
+SilentByte Platforms, Iconic Tech, Zimbabwe Developer, WhatsApp Bot Developer, 
+JavaScript Developer, Node.js Developer, Full Stack Developer, Queen Ruva Bot,
+Codewave Unit Force, Website Developer, Backend Developer, Tech Entrepreneur
+-->
+
+---
+
+</div>
+<br>
+<!-- Animated Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" width="100%"/>
+</div>
+<br>
+<!-- Snake Animation -->
+<div align="center">
+  <h2>🐍 Contribution Snake</h2>
+  <img src="https://github.com/iconictech-dev/iconictech-dev/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+</div>
+<br>
+<!-- Footer Animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80;SilentByte+Platforms+%C2%A9+2026;We+Do+Tech+For+A+Purpose" alt="Footer Typing" />
+  </a>
+</div>
+<!-- Animated Footer Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=150&section=footer&text=SilentByte%20Platforms%20Inc&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=70&desc=Powered%20by%20Passion%20%7C%20Built%20with%20Purpose&descAlignY=90&descSize=12"/>
+</div>
+<!-- Hidden SEO Keywords -->
+<!--
+SilentByte Platforms, Iconic Tech, Zimbabwe Developer, WhatsApp Bot Developer, 
+JavaScript Developer, Node.js Developer, Full Stack Developer, Queen Ruva Bot,
+Codewave Unit Force, Website Developer, Backend Developer, Tech Entrepreneur,
+iconictech-dev, SilentByte Platforms Inc, Zimbabwe Tech
+-->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SilentByteTech&bg_color=0d1117&color=667eea&line=764ba2&point=ff6b6b&area=true&hide_border=true&radius=8&custom_title=My%20Contribution%20Graph" width="100%"/>
 </div>
